@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { Route, Redirect } from 'react-router-dom'
-import {Home, Navi, Gallary, Aboutus, Services } from './components'
+import {Home, Navi, Gallary, Aboutus, Services, Footer } from './components'
 import './App.css';
 
 class App extends Component {
@@ -13,6 +13,7 @@ class App extends Component {
           <Route exact path="/hammonds/aboutus" render={() => (<Aboutus />)} />
           <Route exact path="/hammonds/services" render={() => (<Services />)} />
           <Route path="/*" render={() => (<Redirect to="/hammonds/home" />)} />
+          <Footer />
       </div>
     );
   }
