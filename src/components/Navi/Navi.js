@@ -23,18 +23,18 @@ class Home extends Component {
         return (
           <div>
             <Navbar color="light" light expand="md">
-              <NavbarBrand href="/"><Link to="/vup/home" >reactstrap</Link></NavbarBrand>
+              <NavbarBrand href="/"><Link to="/hammonds/home" >Hammonds Masonry</Link></NavbarBrand>
               <NavbarToggler onClick={this.toggle} />
               <Collapse isOpen={this.state.isOpen} navbar>
                 <Nav className="ml-auto" navbar>
                   <NavItem>
-                    <NavLink href=""><Link to="/vup/home" >Gallary</Link></NavLink>
+                    <NavLink href=""><Link to="/hammonds/gallary">Gallary</Link></NavLink>
                   </NavItem>
                   <NavItem>
-                    <NavLink href=""><Link to="/vup/home" >Services</Link></NavLink>
+                    <NavLink href=""><Link to="/hammonds/services">Services</Link></NavLink>
                   </NavItem>
                   <NavItem>
-                    <NavLink href=""><Link to="/vup/home" >About Us</Link></NavLink>
+                    <NavLink href=""><Link to="/hammonds/aboutus" >About Us</Link></NavLink>
                   </NavItem>
 
                 </Nav>
