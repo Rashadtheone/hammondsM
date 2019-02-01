@@ -7,6 +7,10 @@
 
 }
 
+img {
+  width: 100%;
+}
+
 .app-navi {
   width: 100%;
 }
@@ -18,10 +22,23 @@
 
 .app-footer {
   display: flex;
+  margin-top: 20px;
+
 }
 
 
-
+.pictureGallary{
+  display: flex;
+  flex-flow: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 20px;
+}
+.picture {
+  width: 200px;
+  height: 200px;
+  margin: 5px;
+}
 
 
 
