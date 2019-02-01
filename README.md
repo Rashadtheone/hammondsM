@@ -16,5 +16,7 @@ A Website for A Brick Masonry Company
 ### Day 2 
  - Updated on Hover Styling for pictures - Gallary Page
  - Updated Footer with classes - Footer
- - Updated Gallary Style, pictures will be seperated by project
- - 
+ - Updated Footer Style to fit Form size 
+ - Updated Gallary Component Style, pictures will be seperated by project
+ - Updated Services component style, Houses Modal that will allow users to get more information 
+ - Linted entire project to be easier to read. 
