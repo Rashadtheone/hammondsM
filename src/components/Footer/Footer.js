@@ -4,13 +4,15 @@ class Footer extends Component {
     render() {
         return (
             <Container>
+                <div className= "footerBackground">
                   <Row>
-                    <Col xs="4" md="4">Contact Us</Col>
+                    <Col xs="4" md="4"><div className="footerHeader">Contact Us</div> </Col>
                     <Col xs="4" md="4">
-                    <Row>Phone Number</Row>
-                    <Row>Email</Row>
+                    <Row><div className="footerText"> Phone Number</div></Row>
+                    <Row><div className="footerText">Email</div></Row>
                     </Col>
                  </Row>
+                 </div>
             </Container>
         );
     }

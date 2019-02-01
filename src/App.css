@@ -38,6 +38,10 @@
   width: 200px;
   height: 200px;
   margin: 5px;
+  transition: all .2s ease-in-out;
+}
+.picture:hover {
+  transform: scale(1.5); 
 }
 .picture > img {
   width: 100%;
@@ -85,4 +89,20 @@
 }
 .service > img {
   width: 100%;
+}
+
+/* Footer Section  */
+
+.footerBackground {
+  background-color: black;
+  height: 30vh
+}
+
+.footerText {
+  color: white;
+}
+
+.footerHeader {
+  color: white;
+  font-size: 2em;
 }
