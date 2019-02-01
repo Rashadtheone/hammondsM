@@ -14,6 +14,7 @@ A Website for A Brick Masonry Company
  - Navigation Bar functional
  - Basic Styling of About Us, Gallary, services
 ### Day 2 
- - Updated on Hover Styling for pictures- Gallary Page
- - Updated Footer with classes 
+ - Updated on Hover Styling for pictures - Gallary Page
+ - Updated Footer with classes - Footer
+ - Updated Gallary Style, pictures will be seperated by project
  - 
