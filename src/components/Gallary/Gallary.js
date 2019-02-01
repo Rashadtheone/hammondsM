@@ -87,6 +87,7 @@ class Gallary extends Component {
       </Carousel></Col>
         </Row>
         <Row>
+            <div className = "projectHeader">Project Name</div>
             <div className = 'pictureGallary'> 
             <div className = 'picture'><img src="https://www.gaskinsbennett.com/wp-content/uploads/2017/06/placeholder-500x500.jpg" alt="New"/></div>
             <div className = 'picture'><img src="https://www.gaskinsbennett.com/wp-content/uploads/2017/06/placeholder-500x500.jpg" alt="New"/></div>
@@ -97,6 +98,35 @@ class Gallary extends Component {
             <div className = 'picture'><img src="https://www.gaskinsbennett.com/wp-content/uploads/2017/06/placeholder-500x500.jpg" alt="New"/></div>
             <div className = 'picture'><img src="https://www.gaskinsbennett.com/wp-content/uploads/2017/06/placeholder-500x500.jpg" alt="New"/></div>
             </div>
+        </Row>
+
+        <Row>
+            <div className = "projectHeader">Project Name</div>
+            <div className = 'pictureGallary'> 
+            <div className = 'picture'><img src="https://www.gaskinsbennett.com/wp-content/uploads/2017/06/placeholder-500x500.jpg" alt="New"/></div>
+            <div className = 'picture'><img src="https://www.gaskinsbennett.com/wp-content/uploads/2017/06/placeholder-500x500.jpg" alt="New"/></div>
+            <div className = 'picture'><img src="https://www.gaskinsbennett.com/wp-content/uploads/2017/06/placeholder-500x500.jpg" alt="New"/></div>
+            <div className = 'picture'><img src="https://www.gaskinsbennett.com/wp-content/uploads/2017/06/placeholder-500x500.jpg" alt="New"/></div>
+            <div className = 'picture'><img src="https://www.gaskinsbennett.com/wp-content/uploads/2017/06/placeholder-500x500.jpg" alt="New"/></div>
+            <div className = 'picture'><img src="https://www.gaskinsbennett.com/wp-content/uploads/2017/06/placeholder-500x500.jpg" alt="New"/></div>
+            <div className = 'picture'><img src="https://www.gaskinsbennett.com/wp-content/uploads/2017/06/placeholder-500x500.jpg" alt="New"/></div>
+            <div className = 'picture'><img src="https://www.gaskinsbennett.com/wp-content/uploads/2017/06/placeholder-500x500.jpg" alt="New"/></div>
+            </div>
+        </Row>
+
+        <Row>
+          <div className = "projectHeader">Project Name</div>
+            <div className = 'pictureGallary'> 
+            <div className = 'picture'><img src="https://www.gaskinsbennett.com/wp-content/uploads/2017/06/placeholder-500x500.jpg" alt="New"/></div>
+            <div className = 'picture'><img src="https://www.gaskinsbennett.com/wp-content/uploads/2017/06/placeholder-500x500.jpg" alt="New"/></div>
+            <div className = 'picture'><img src="https://www.gaskinsbennett.com/wp-content/uploads/2017/06/placeholder-500x500.jpg" alt="New"/></div>
+            <div className = 'picture'><img src="https://www.gaskinsbennett.com/wp-content/uploads/2017/06/placeholder-500x500.jpg" alt="New"/></div>
+            <div className = 'picture'><img src="https://www.gaskinsbennett.com/wp-content/uploads/2017/06/placeholder-500x500.jpg" alt="New"/></div>
+            <div className = 'picture'><img src="https://www.gaskinsbennett.com/wp-content/uploads/2017/06/placeholder-500x500.jpg" alt="New"/></div>
+            <div className = 'picture'><img src="https://www.gaskinsbennett.com/wp-content/uploads/2017/06/placeholder-500x500.jpg" alt="New"/></div>
+            <div className = 'picture'><img src="https://www.gaskinsbennett.com/wp-content/uploads/2017/06/placeholder-500x500.jpg" alt="New"/></div>
+            </div>
+            
         </Row>
             </Container>
         );

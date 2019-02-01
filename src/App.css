@@ -46,7 +46,11 @@
 .picture > img {
   width: 100%;
 }
-
+.projectHeader {
+  color: black;
+  font-size: 2em;
+  margin: 10px;
+}
 /* AboutUs */
 
 .aboutUsContainer {
