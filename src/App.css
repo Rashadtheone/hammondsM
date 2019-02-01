@@ -1,15 +1,14 @@
+/* main app */
 .app-main {
   display: flex;
   flex-flow: wrap;
   flex-direction: column;
-  justify-content: space-around;
+  justify-content: space-evenly;
   text-align: center;
 
 }
 
-img {
-  width: 100%;
-}
+
 
 .app-navi {
   width: 100%;
@@ -26,6 +25,7 @@ img {
 
 }
 
+/* picture gallary  */
 
 .pictureGallary{
   display: flex;
@@ -39,14 +39,50 @@ img {
   height: 200px;
   margin: 5px;
 }
+.picture > img {
+  width: 100%;
+}
 
+/* AboutUs */
 
+.aboutUsContainer {
+  margin-left: 100px;
+}
+.logoContainer{
+  width: 100%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.logoPicture {
+  width: 100%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.ownerSection {
+  width: 100%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.companyInfo{
+  width: 100%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+/* services section  */
+
+.services{
+  display: flex;
+  flex-flow: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 20px;
+}
+.service {
+  width: 250px;
+  height: 250px;
+  margin: 5px;
+}
+.service > img {
+  width: 100%;
 }

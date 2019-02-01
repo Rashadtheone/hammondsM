@@ -16,7 +16,7 @@ class App extends Component {
           <Route exact path="/hammonds/aboutus" render={() => (<Aboutus />)} />
           <Route exact path="/hammonds/services" render={() => (<Services />)} />
           <Route path="/*" render={() => (<Redirect to="/hammonds/home" />)} />
-          
+         
       </div>
       <div className="app-footer">
       <Footer />

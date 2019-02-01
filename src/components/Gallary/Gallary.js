@@ -88,14 +88,14 @@ class Gallary extends Component {
         </Row>
         <Row>
             <div className = 'pictureGallary'> 
-            <div className = 'picture'><img src="https://www.gaskinsbennett.com/wp-content/uploads/2017/06/placeholder-500x500.jpg" alt="golf"/></div>
-            <div className = 'picture'><img src="https://www.gaskinsbennett.com/wp-content/uploads/2017/06/placeholder-500x500.jpg" alt="golf"/></div>
-            <div className = 'picture'><img src="https://www.gaskinsbennett.com/wp-content/uploads/2017/06/placeholder-500x500.jpg" alt="golf"/></div>
-            <div className = 'picture'><img src="https://www.gaskinsbennett.com/wp-content/uploads/2017/06/placeholder-500x500.jpg" alt="golf"/></div>
-            <div className = 'picture'><img src="https://www.gaskinsbennett.com/wp-content/uploads/2017/06/placeholder-500x500.jpg" alt="golf"/></div>
-            <div className = 'picture'><img src="https://www.gaskinsbennett.com/wp-content/uploads/2017/06/placeholder-500x500.jpg" alt="golf"/></div>
-            <div className = 'picture'><img src="https://www.gaskinsbennett.com/wp-content/uploads/2017/06/placeholder-500x500.jpg" alt="golf"/></div>
-            <div className = 'picture'><img src="https://www.gaskinsbennett.com/wp-content/uploads/2017/06/placeholder-500x500.jpg" alt="golf"/></div>
+            <div className = 'picture'><img src="https://www.gaskinsbennett.com/wp-content/uploads/2017/06/placeholder-500x500.jpg" alt="New"/></div>
+            <div className = 'picture'><img src="https://www.gaskinsbennett.com/wp-content/uploads/2017/06/placeholder-500x500.jpg" alt="New"/></div>
+            <div className = 'picture'><img src="https://www.gaskinsbennett.com/wp-content/uploads/2017/06/placeholder-500x500.jpg" alt="New"/></div>
+            <div className = 'picture'><img src="https://www.gaskinsbennett.com/wp-content/uploads/2017/06/placeholder-500x500.jpg" alt="New"/></div>
+            <div className = 'picture'><img src="https://www.gaskinsbennett.com/wp-content/uploads/2017/06/placeholder-500x500.jpg" alt="New"/></div>
+            <div className = 'picture'><img src="https://www.gaskinsbennett.com/wp-content/uploads/2017/06/placeholder-500x500.jpg" alt="New"/></div>
+            <div className = 'picture'><img src="https://www.gaskinsbennett.com/wp-content/uploads/2017/06/placeholder-500x500.jpg" alt="New"/></div>
+            <div className = 'picture'><img src="https://www.gaskinsbennett.com/wp-content/uploads/2017/06/placeholder-500x500.jpg" alt="New"/></div>
             </div>
         </Row>
             </Container>
