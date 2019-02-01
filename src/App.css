@@ -7,26 +7,18 @@
   text-align: center;
 
 }
-
-
-
 .app-navi {
   width: 100%;
 }
-
 .app-body {
   display: flex;
   margin: 20px;
 }
-
 .app-footer {
   display: flex;
   margin-top: 20px;
-
 }
-
 /* picture gallary  */
-
 .pictureGallary{
   display: flex;
   flex-flow: row;
@@ -89,10 +81,19 @@
 .service {
   width: 250px;
   height: 250px;
-  margin: 5px;
+  margin: 12px;
+  margin-bottom: 25px;
+  padding: 5px;
 }
 .service > img {
   width: 100%;
+}
+
+.serviceButton > button {
+  color: black;
+  width: 200px; 
+  height: 35px;
+  margin: 5px;
 }
 
 /* Footer Section  */
